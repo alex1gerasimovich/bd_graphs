@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" pages="7">
+
+  <!-- ============================================================ -->
+  <!-- СТРАНИЦА 1: Artists (Артисты)                                -->
+  <!-- ============================================================ -->
+  <diagram name="Artists" id="page_artists">
+    <mxGraphModel dx="1607" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+
+        <!-- Taylor Swift -->
+        <mxCell id="a1" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;startSize=30;" value="Taylor Swift" vertex="1">
+          <mxGeometry x="40" y="60" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="a1f1" parent="a1" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 1" vertex="1"><mxGeometry y="30" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a1f2" parent="a1" style="text;fontSize=12;align=left;spacingLeft=8;" value="country = USA" vertex="1"><mxGeometry y="55" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a1f3" parent="a1" style="text;fontSize=12;align=left;spacingLeft=8;" value="genre = Pop/Country" vertex="1"><mxGeometry y="80" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a1f4" parent="a1" style="text;fontSize=12;align=left;spacingLeft=8;" value="isActive = 1" vertex="1"><mxGeometry y="105" width="220" height="25" as="geometry" /></mxCell>
+
+        <!-- Drake -->
+        <mxCell id="a2" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;startSize=30;" value="Drake" vertex="1">
+          <mxGeometry x="300" y="60" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="a2f1" parent="a2" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 2" vertex="1"><mxGeometry y="30" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a2f2" parent="a2" style="text;fontSize=12;align=left;spacingLeft=8;" value="country = Canada" vertex="1"><mxGeometry y="55" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a2f3" parent="a2" style="text;fontSize=12;align=left;spacingLeft=8;" value="genre = Hip-Hop/R&amp;B" vertex="1"><mxGeometry y="80" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a2f4" parent="a2" style="text;fontSize=12;align=left;spacingLeft=8;" value="isActive = 1" vertex="1"><mxGeometry y="105" width="220" height="25" as="geometry" /></mxCell>
+
+        <!-- Billie Eilish -->
+        <mxCell id="a3" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;startSize=30;" value="Billie Eilish" vertex="1">
+          <mxGeometry x="560" y="60" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="a3f1" parent="a3" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 3" vertex="1"><mxGeometry y="30" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a3f2" parent="a3" style="text;fontSize=12;align=left;spacingLeft=8;" value="country = USA" vertex="1"><mxGeometry y="55" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a3f3" parent="a3" style="text;fontSize=12;align=left;spacingLeft=8;" value="genre = Pop" vertex="1"><mxGeometry y="80" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a3f4" parent="a3" style="text;fontSize=12;align=left;spacingLeft=8;" value="isActive = 1" vertex="1"><mxGeometry y="105" width="220" height="25" as="geometry" /></mxCell>
+
+        <!-- Kendrick Lamar -->
+        <mxCell id="a4" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;startSize=30;" value="Kendrick Lamar" vertex="1">
+          <mxGeometry x="820" y="60" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="a4f1" parent="a4" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 4" vertex="1"><mxGeometry y="30" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a4f2" parent="a4" style="text;fontSize=12;align=left;spacingLeft=8;" value="country = USA" vertex="1"><mxGeometry y="55" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a4f3" parent="a4" style="text;fontSize=12;align=left;spacingLeft=8;" value="genre = Hip-Hop" vertex="1"><mxGeometry y="80" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a4f4" parent="a4" style="text;fontSize=12;align=left;spacingLeft=8;" value="isActive = 1" vertex="1"><mxGeometry y="105" width="220" height="25" as="geometry" /></mxCell>
+
+        <!-- Adele -->
+        <mxCell id="a5" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;startSize=30;" value="Adele" vertex="1">
+          <mxGeometry x="40" y="240" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="a5f1" parent="a5" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 5" vertex="1"><mxGeometry y="30" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a5f2" parent="a5" style="text;fontSize=12;align=left;spacingLeft=8;" value="country = UK" vertex="1"><mxGeometry y="55" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a5f3" parent="a5" style="text;fontSize=12;align=left;spacingLeft=8;" value="genre = Soul/Pop" vertex="1"><mxGeometry y="80" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a5f4" parent="a5" style="text;fontSize=12;align=left;spacingLeft=8;" value="isActive = 1" vertex="1"><mxGeometry y="105" width="220" height="25" as="geometry" /></mxCell>
+
+        <!-- The Weeknd -->
+        <mxCell id="a6" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;startSize=30;" value="The Weeknd" vertex="1">
+          <mxGeometry x="300" y="240" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="a6f1" parent="a6" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 6" vertex="1"><mxGeometry y="30" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a6f2" parent="a6" style="text;fontSize=12;align=left;spacingLeft=8;" value="country = Canada" vertex="1"><mxGeometry y="55" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a6f3" parent="a6" style="text;fontSize=12;align=left;spacingLeft=8;" value="genre = R&amp;B/Pop" vertex="1"><mxGeometry y="80" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a6f4" parent="a6" style="text;fontSize=12;align=left;spacingLeft=8;" value="isActive = 1" vertex="1"><mxGeometry y="105" width="220" height="25" as="geometry" /></mxCell>
+
+        <!-- BTS -->
+        <mxCell id="a7" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;startSize=30;" value="BTS" vertex="1">
+          <mxGeometry x="560" y="240" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="a7f1" parent="a7" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 7" vertex="1"><mxGeometry y="30" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a7f2" parent="a7" style="text;fontSize=12;align=left;spacingLeft=8;" value="country = South Korea" vertex="1"><mxGeometry y="55" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a7f3" parent="a7" style="text;fontSize=12;align=left;spacingLeft=8;" value="genre = K-Pop" vertex="1"><mxGeometry y="80" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a7f4" parent="a7" style="text;fontSize=12;align=left;spacingLeft=8;" value="isActive = 1" vertex="1"><mxGeometry y="105" width="220" height="25" as="geometry" /></mxCell>
+
+        <!-- Eminem -->
+        <mxCell id="a8" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;startSize=30;" value="Eminem" vertex="1">
+          <mxGeometry x="820" y="240" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="a8f1" parent="a8" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 8" vertex="1"><mxGeometry y="30" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a8f2" parent="a8" style="text;fontSize=12;align=left;spacingLeft=8;" value="country = USA" vertex="1"><mxGeometry y="55" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a8f3" parent="a8" style="text;fontSize=12;align=left;spacingLeft=8;" value="genre = Hip-Hop" vertex="1"><mxGeometry y="80" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a8f4" parent="a8" style="text;fontSize=12;align=left;spacingLeft=8;" value="isActive = 1" vertex="1"><mxGeometry y="105" width="220" height="25" as="geometry" /></mxCell>
+
+        <!-- Beyonce -->
+        <mxCell id="a9" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;startSize=30;" value="Beyonce" vertex="1">
+          <mxGeometry x="40" y="420" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="a9f1" parent="a9" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 9" vertex="1"><mxGeometry y="30" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a9f2" parent="a9" style="text;fontSize=12;align=left;spacingLeft=8;" value="country = USA" vertex="1"><mxGeometry y="55" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a9f3" parent="a9" style="text;fontSize=12;align=left;spacingLeft=8;" value="genre = R&amp;B/Pop" vertex="1"><mxGeometry y="80" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a9f4" parent="a9" style="text;fontSize=12;align=left;spacingLeft=8;" value="isActive = 1" vertex="1"><mxGeometry y="105" width="220" height="25" as="geometry" /></mxCell>
+
+        <!-- Ed Sheeran -->
+        <mxCell id="a10" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;startSize=30;" value="Ed Sheeran" vertex="1">
+          <mxGeometry x="300" y="420" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="a10f1" parent="a10" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 10" vertex="1"><mxGeometry y="30" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a10f2" parent="a10" style="text;fontSize=12;align=left;spacingLeft=8;" value="country = UK" vertex="1"><mxGeometry y="55" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a10f3" parent="a10" style="text;fontSize=12;align=left;spacingLeft=8;" value="genre = Pop/Folk" vertex="1"><mxGeometry y="80" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a10f4" parent="a10" style="text;fontSize=12;align=left;spacingLeft=8;" value="isActive = 1" vertex="1"><mxGeometry y="105" width="220" height="25" as="geometry" /></mxCell>
+
+        <!-- Bad Bunny -->
+        <mxCell id="a11" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;startSize=30;" value="Bad Bunny" vertex="1">
+          <mxGeometry x="560" y="420" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="a11f1" parent="a11" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 11" vertex="1"><mxGeometry y="30" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a11f2" parent="a11" style="text;fontSize=12;align=left;spacingLeft=8;" value="country = Puerto Rico" vertex="1"><mxGeometry y="55" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a11f3" parent="a11" style="text;fontSize=12;align=left;spacingLeft=8;" value="genre = Latin" vertex="1"><mxGeometry y="80" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a11f4" parent="a11" style="text;fontSize=12;align=left;spacingLeft=8;" value="isActive = 1" vertex="1"><mxGeometry y="105" width="220" height="25" as="geometry" /></mxCell>
+
+        <!-- Radiohead -->
+        <mxCell id="a12" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;startSize=30;" value="Radiohead" vertex="1">
+          <mxGeometry x="820" y="420" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="a12f1" parent="a12" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 12" vertex="1"><mxGeometry y="30" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a12f2" parent="a12" style="text;fontSize=12;align=left;spacingLeft=8;" value="country = UK" vertex="1"><mxGeometry y="55" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a12f3" parent="a12" style="text;fontSize=12;align=left;spacingLeft=8;" value="genre = Indie/Rock" vertex="1"><mxGeometry y="80" width="220" height="25" as="geometry" /></mxCell>
+        <mxCell id="a12f4" parent="a12" style="text;fontSize=12;align=left;spacingLeft=8;" value="isActive = 1" vertex="1"><mxGeometry y="105" width="220" height="25" as="geometry" /></mxCell>
+
+        <!-- Legend -->
+        <mxCell id="leg_a" parent="1" style="swimlane;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontSize=12;startSize=25;" value="Легенда:" vertex="1">
+          <mxGeometry x="40" y="610" width="280" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="leg_a1" parent="leg_a" style="text;fontSize=12;align=left;spacingLeft=8;fontColor=#6c8ebf;" value="🔵 Artists — узлы артистов (синий)" vertex="1"><mxGeometry y="25" width="280" height="22" as="geometry" /></mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+
+  <!-- ============================================================ -->
+  <!-- СТРАНИЦА 2: Labels (Лейблы)                                  -->
+  <!-- ============================================================ -->
+  <diagram name="Labels" id="page_labels">
+    <mxGraphModel dx="1607" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" /><mxCell id="1" parent="0" />
+
+        <mxCell id="l1" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;startSize=30;" value="Universal Music Group" vertex="1">
+          <mxGeometry x="40" y="60" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="l1f1" parent="l1" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 1" vertex="1"><mxGeometry y="30" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l1f2" parent="l1" style="text;fontSize=12;align=left;spacingLeft=8;" value="founded = 1934,  USA" vertex="1"><mxGeometry y="55" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l1f3" parent="l1" style="text;fontSize=12;align=left;spacingLeft=8;" value="parent = NULL" vertex="1"><mxGeometry y="80" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l1f4" parent="l1" style="text;fontSize=12;align=left;spacingLeft=8;" value="revenue = $10,000M" vertex="1"><mxGeometry y="105" width="240" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="l2" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;startSize=30;" value="Sony Music Entertainment" vertex="1">
+          <mxGeometry x="320" y="60" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="l2f1" parent="l2" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 2" vertex="1"><mxGeometry y="30" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l2f2" parent="l2" style="text;fontSize=12;align=left;spacingLeft=8;" value="founded = 1929,  USA" vertex="1"><mxGeometry y="55" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l2f3" parent="l2" style="text;fontSize=12;align=left;spacingLeft=8;" value="parent = NULL" vertex="1"><mxGeometry y="80" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l2f4" parent="l2" style="text;fontSize=12;align=left;spacingLeft=8;" value="revenue = $8,500M" vertex="1"><mxGeometry y="105" width="240" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="l3" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;startSize=30;" value="Warner Music Group" vertex="1">
+          <mxGeometry x="600" y="60" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="l3f1" parent="l3" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 3" vertex="1"><mxGeometry y="30" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l3f2" parent="l3" style="text;fontSize=12;align=left;spacingLeft=8;" value="founded = 1958,  USA" vertex="1"><mxGeometry y="55" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l3f3" parent="l3" style="text;fontSize=12;align=left;spacingLeft=8;" value="parent = NULL" vertex="1"><mxGeometry y="80" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l3f4" parent="l3" style="text;fontSize=12;align=left;spacingLeft=8;" value="revenue = $5,600M" vertex="1"><mxGeometry y="105" width="240" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="l4" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;startSize=30;" value="Def Jam Recordings" vertex="1">
+          <mxGeometry x="40" y="240" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="l4f1" parent="l4" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 4" vertex="1"><mxGeometry y="30" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l4f2" parent="l4" style="text;fontSize=12;align=left;spacingLeft=8;" value="founded = 1983,  USA" vertex="1"><mxGeometry y="55" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l4f3" parent="l4" style="text;fontSize=12;align=left;spacingLeft=8;" value="parent = Universal Music Group" vertex="1"><mxGeometry y="80" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l4f4" parent="l4" style="text;fontSize=12;align=left;spacingLeft=8;" value="revenue = $950M" vertex="1"><mxGeometry y="105" width="240" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="l5" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;startSize=30;" value="Republic Records" vertex="1">
+          <mxGeometry x="320" y="240" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="l5f1" parent="l5" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 5" vertex="1"><mxGeometry y="30" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l5f2" parent="l5" style="text;fontSize=12;align=left;spacingLeft=8;" value="founded = 1995,  USA" vertex="1"><mxGeometry y="55" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l5f3" parent="l5" style="text;fontSize=12;align=left;spacingLeft=8;" value="parent = Universal Music Group" vertex="1"><mxGeometry y="80" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l5f4" parent="l5" style="text;fontSize=12;align=left;spacingLeft=8;" value="revenue = $1,200M" vertex="1"><mxGeometry y="105" width="240" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="l6" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;startSize=30;" value="Atlantic Records" vertex="1">
+          <mxGeometry x="600" y="240" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="l6f1" parent="l6" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 6" vertex="1"><mxGeometry y="30" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l6f2" parent="l6" style="text;fontSize=12;align=left;spacingLeft=8;" value="founded = 1947,  USA" vertex="1"><mxGeometry y="55" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l6f3" parent="l6" style="text;fontSize=12;align=left;spacingLeft=8;" value="parent = Warner Music Group" vertex="1"><mxGeometry y="80" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l6f4" parent="l6" style="text;fontSize=12;align=left;spacingLeft=8;" value="revenue = $870M" vertex="1"><mxGeometry y="105" width="240" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="l7" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;startSize=30;" value="Columbia Records" vertex="1">
+          <mxGeometry x="40" y="420" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="l7f1" parent="l7" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 7" vertex="1"><mxGeometry y="30" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l7f2" parent="l7" style="text;fontSize=12;align=left;spacingLeft=8;" value="founded = 1887,  USA" vertex="1"><mxGeometry y="55" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l7f3" parent="l7" style="text;fontSize=12;align=left;spacingLeft=8;" value="parent = Sony Music" vertex="1"><mxGeometry y="80" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l7f4" parent="l7" style="text;fontSize=12;align=left;spacingLeft=8;" value="revenue = $980M" vertex="1"><mxGeometry y="105" width="240" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="l8" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;startSize=30;" value="Interscope Records" vertex="1">
+          <mxGeometry x="320" y="420" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="l8f1" parent="l8" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 8" vertex="1"><mxGeometry y="30" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l8f2" parent="l8" style="text;fontSize=12;align=left;spacingLeft=8;" value="founded = 1990,  USA" vertex="1"><mxGeometry y="55" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l8f3" parent="l8" style="text;fontSize=12;align=left;spacingLeft=8;" value="parent = Universal Music Group" vertex="1"><mxGeometry y="80" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l8f4" parent="l8" style="text;fontSize=12;align=left;spacingLeft=8;" value="revenue = $760M" vertex="1"><mxGeometry y="105" width="240" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="l9" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;startSize=30;" value="HYBE Labels" vertex="1">
+          <mxGeometry x="600" y="420" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="l9f1" parent="l9" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 9" vertex="1"><mxGeometry y="30" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l9f2" parent="l9" style="text;fontSize=12;align=left;spacingLeft=8;" value="founded = 2005,  South Korea" vertex="1"><mxGeometry y="55" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l9f3" parent="l9" style="text;fontSize=12;align=left;spacingLeft=8;" value="parent = NULL" vertex="1"><mxGeometry y="80" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l9f4" parent="l9" style="text;fontSize=12;align=left;spacingLeft=8;" value="revenue = $1,100M" vertex="1"><mxGeometry y="105" width="240" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="l10" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;startSize=30;" value="XL Recordings" vertex="1">
+          <mxGeometry x="40" y="600" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="l10f1" parent="l10" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 10" vertex="1"><mxGeometry y="30" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l10f2" parent="l10" style="text;fontSize=12;align=left;spacingLeft=8;" value="founded = 1989,  UK" vertex="1"><mxGeometry y="55" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l10f3" parent="l10" style="text;fontSize=12;align=left;spacingLeft=8;" value="parent = Warner Music Group" vertex="1"><mxGeometry y="80" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l10f4" parent="l10" style="text;fontSize=12;align=left;spacingLeft=8;" value="revenue = $210M" vertex="1"><mxGeometry y="105" width="240" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="l11" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;startSize=30;" value="Motown Records" vertex="1">
+          <mxGeometry x="320" y="600" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="l11f1" parent="l11" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 11" vertex="1"><mxGeometry y="30" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l11f2" parent="l11" style="text;fontSize=12;align=left;spacingLeft=8;" value="founded = 1959,  USA" vertex="1"><mxGeometry y="55" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l11f3" parent="l11" style="text;fontSize=12;align=left;spacingLeft=8;" value="parent = Universal Music Group" vertex="1"><mxGeometry y="80" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l11f4" parent="l11" style="text;fontSize=12;align=left;spacingLeft=8;" value="revenue = $180M" vertex="1"><mxGeometry y="105" width="240" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="l12" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;startSize=30;" value="Sub Pop Records" vertex="1">
+          <mxGeometry x="600" y="600" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="l12f1" parent="l12" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 12" vertex="1"><mxGeometry y="30" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l12f2" parent="l12" style="text;fontSize=12;align=left;spacingLeft=8;" value="founded = 1986,  USA" vertex="1"><mxGeometry y="55" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l12f3" parent="l12" style="text;fontSize=12;align=left;spacingLeft=8;" value="parent = NULL" vertex="1"><mxGeometry y="80" width="240" height="25" as="geometry" /></mxCell>
+        <mxCell id="l12f4" parent="l12" style="text;fontSize=12;align=left;spacingLeft=8;" value="revenue = $55M" vertex="1"><mxGeometry y="105" width="240" height="25" as="geometry" /></mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+
+  <!-- ============================================================ -->
+  <!-- СТРАНИЦА 3: Producers (Продюсеры)                           -->
+  <!-- ============================================================ -->
+  <diagram name="Producers" id="page_producers">
+    <mxGraphModel dx="1607" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" /><mxCell id="1" parent="0" />
+
+        <mxCell id="p1" parent="1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=13;startSize=30;" value="Max Martin" vertex="1">
+          <mxGeometry x="40" y="60" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="p1f1" parent="p1" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 1" vertex="1"><mxGeometry y="30" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p1f2" parent="p1" style="text;fontSize=12;align=left;spacingLeft=8;" value="country = Sweden" vertex="1"><mxGeometry y="55" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p1f3" parent="p1" style="text;fontSize=12;align=left;spacingLeft=8;" value="specialty = Pop songwriting" vertex="1"><mxGeometry y="80" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p1f4" parent="p1" style="text;fontSize=12;align=left;spacingLeft=8;" value="birthYear = 1971" vertex="1"><mxGeometry y="105" width="230" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="p2" parent="1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=13;startSize=30;" value="Quincy Jones" vertex="1">
+          <mxGeometry x="310" y="60" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="p2f1" parent="p2" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 2" vertex="1"><mxGeometry y="30" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p2f2" parent="p2" style="text;fontSize=12;align=left;spacingLeft=8;" value="country = USA" vertex="1"><mxGeometry y="55" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p2f3" parent="p2" style="text;fontSize=12;align=left;spacingLeft=8;" value="specialty = Jazz, R&amp;B, orchestral" vertex="1"><mxGeometry y="80" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p2f4" parent="p2" style="text;fontSize=12;align=left;spacingLeft=8;" value="birthYear = 1933" vertex="1"><mxGeometry y="105" width="230" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="p3" parent="1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=13;startSize=30;" value="Rick Rubin" vertex="1">
+          <mxGeometry x="580" y="60" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="p3f1" parent="p3" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 3" vertex="1"><mxGeometry y="30" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p3f2" parent="p3" style="text;fontSize=12;align=left;spacingLeft=8;" value="country = USA" vertex="1"><mxGeometry y="55" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p3f3" parent="p3" style="text;fontSize=12;align=left;spacingLeft=8;" value="specialty = Rock, Hip-Hop" vertex="1"><mxGeometry y="80" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p3f4" parent="p3" style="text;fontSize=12;align=left;spacingLeft=8;" value="birthYear = 1963" vertex="1"><mxGeometry y="105" width="230" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="p4" parent="1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=13;startSize=30;" value="Dr. Dre" vertex="1">
+          <mxGeometry x="850" y="60" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="p4f1" parent="p4" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 4" vertex="1"><mxGeometry y="30" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p4f2" parent="p4" style="text;fontSize=12;align=left;spacingLeft=8;" value="country = USA" vertex="1"><mxGeometry y="55" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p4f3" parent="p4" style="text;fontSize=12;align=left;spacingLeft=8;" value="specialty = West Coast Hip-Hop" vertex="1"><mxGeometry y="80" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p4f4" parent="p4" style="text;fontSize=12;align=left;spacingLeft=8;" value="birthYear = 1965" vertex="1"><mxGeometry y="105" width="230" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="p5" parent="1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=13;startSize=30;" value="Pharrell Williams" vertex="1">
+          <mxGeometry x="40" y="240" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="p5f1" parent="p5" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 5" vertex="1"><mxGeometry y="30" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p5f2" parent="p5" style="text;fontSize=12;align=left;spacingLeft=8;" value="country = USA" vertex="1"><mxGeometry y="55" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p5f3" parent="p5" style="text;fontSize=12;align=left;spacingLeft=8;" value="specialty = Neo-Soul, Pop" vertex="1"><mxGeometry y="80" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p5f4" parent="p5" style="text;fontSize=12;align=left;spacingLeft=8;" value="birthYear = 1973" vertex="1"><mxGeometry y="105" width="230" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="p6" parent="1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=13;startSize=30;" value="Timbaland" vertex="1">
+          <mxGeometry x="310" y="240" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="p6f1" parent="p6" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 6" vertex="1"><mxGeometry y="30" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p6f2" parent="p6" style="text;fontSize=12;align=left;spacingLeft=8;" value="country = USA" vertex="1"><mxGeometry y="55" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p6f3" parent="p6" style="text;fontSize=12;align=left;spacingLeft=8;" value="specialty = R&amp;B, Pop, electronic" vertex="1"><mxGeometry y="80" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p6f4" parent="p6" style="text;fontSize=12;align=left;spacingLeft=8;" value="birthYear = 1972" vertex="1"><mxGeometry y="105" width="230" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="p7" parent="1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=13;startSize=30;" value="Brian Eno" vertex="1">
+          <mxGeometry x="580" y="240" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="p7f1" parent="p7" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 7" vertex="1"><mxGeometry y="30" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p7f2" parent="p7" style="text;fontSize=12;align=left;spacingLeft=8;" value="country = UK" vertex="1"><mxGeometry y="55" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p7f3" parent="p7" style="text;fontSize=12;align=left;spacingLeft=8;" value="specialty = Ambient, Art Rock" vertex="1"><mxGeometry y="80" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p7f4" parent="p7" style="text;fontSize=12;align=left;spacingLeft=8;" value="birthYear = 1948" vertex="1"><mxGeometry y="105" width="230" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="p8" parent="1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=13;startSize=30;" value="Metro Boomin" vertex="1">
+          <mxGeometry x="850" y="240" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="p8f1" parent="p8" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 8" vertex="1"><mxGeometry y="30" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p8f2" parent="p8" style="text;fontSize=12;align=left;spacingLeft=8;" value="country = USA" vertex="1"><mxGeometry y="55" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p8f3" parent="p8" style="text;fontSize=12;align=left;spacingLeft=8;" value="specialty = Trap, Hip-Hop" vertex="1"><mxGeometry y="80" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p8f4" parent="p8" style="text;fontSize=12;align=left;spacingLeft=8;" value="birthYear = 1993" vertex="1"><mxGeometry y="105" width="230" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="p9" parent="1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=13;startSize=30;" value="Jack Antonoff" vertex="1">
+          <mxGeometry x="40" y="420" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="p9f1" parent="p9" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 9" vertex="1"><mxGeometry y="30" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p9f2" parent="p9" style="text;fontSize=12;align=left;spacingLeft=8;" value="country = USA" vertex="1"><mxGeometry y="55" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p9f3" parent="p9" style="text;fontSize=12;align=left;spacingLeft=8;" value="specialty = Indie Pop, Alt Rock" vertex="1"><mxGeometry y="80" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p9f4" parent="p9" style="text;fontSize=12;align=left;spacingLeft=8;" value="birthYear = 1984" vertex="1"><mxGeometry y="105" width="230" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="p10" parent="1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=13;startSize=30;" value="Calvin Harris" vertex="1">
+          <mxGeometry x="310" y="420" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="p10f1" parent="p10" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 10" vertex="1"><mxGeometry y="30" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p10f2" parent="p10" style="text;fontSize=12;align=left;spacingLeft=8;" value="country = UK" vertex="1"><mxGeometry y="55" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p10f3" parent="p10" style="text;fontSize=12;align=left;spacingLeft=8;" value="specialty = EDM, House, Pop" vertex="1"><mxGeometry y="80" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p10f4" parent="p10" style="text;fontSize=12;align=left;spacingLeft=8;" value="birthYear = 1984" vertex="1"><mxGeometry y="105" width="230" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="p11" parent="1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=13;startSize=30;" value="Finneas OConnell" vertex="1">
+          <mxGeometry x="580" y="420" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="p11f1" parent="p11" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 11" vertex="1"><mxGeometry y="30" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p11f2" parent="p11" style="text;fontSize=12;align=left;spacingLeft=8;" value="country = USA" vertex="1"><mxGeometry y="55" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p11f3" parent="p11" style="text;fontSize=12;align=left;spacingLeft=8;" value="specialty = Bedroom Pop" vertex="1"><mxGeometry y="80" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p11f4" parent="p11" style="text;fontSize=12;align=left;spacingLeft=8;" value="birthYear = 1997" vertex="1"><mxGeometry y="105" width="230" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="p12" parent="1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=13;startSize=30;" value="Danger Mouse" vertex="1">
+          <mxGeometry x="850" y="420" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="p12f1" parent="p12" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 12" vertex="1"><mxGeometry y="30" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p12f2" parent="p12" style="text;fontSize=12;align=left;spacingLeft=8;" value="country = USA" vertex="1"><mxGeometry y="55" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p12f3" parent="p12" style="text;fontSize=12;align=left;spacingLeft=8;" value="specialty = Indie, Hip-Hop" vertex="1"><mxGeometry y="80" width="230" height="25" as="geometry" /></mxCell>
+        <mxCell id="p12f4" parent="p12" style="text;fontSize=12;align=left;spacingLeft=8;" value="birthYear = 1977" vertex="1"><mxGeometry y="105" width="230" height="25" as="geometry" /></mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+
+  <!-- ============================================================ -->
+  <!-- СТРАНИЦА 4: SignedWith — Artist → Label                      -->
+  <!-- ============================================================ -->
+  <diagram name="SignedWith" id="page_signed">
+    <mxGraphModel dx="1607" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" /><mxCell id="1" parent="0" />
+
+        <!-- Artists (left) -->
+        <mxCell id="sa1" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;startSize=25;" value="Taylor Swift" vertex="1">
+          <mxGeometry x="30" y="60" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sa1d" parent="sa1" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=1, Pop/Country, USA" vertex="1"><mxGeometry y="25" width="160" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="sa2" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;startSize=25;" value="Drake" vertex="1">
+          <mxGeometry x="30" y="150" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sa2d" parent="sa2" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=2, Hip-Hop, Canada" vertex="1"><mxGeometry y="25" width="160" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="sa3" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;startSize=25;" value="Billie Eilish" vertex="1">
+          <mxGeometry x="30" y="240" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sa3d" parent="sa3" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=3, Pop, USA" vertex="1"><mxGeometry y="25" width="160" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="sa4" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;startSize=25;" value="Kendrick Lamar" vertex="1">
+          <mxGeometry x="30" y="330" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sa4d" parent="sa4" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=4, Hip-Hop, USA" vertex="1"><mxGeometry y="25" width="160" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="sa5" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;startSize=25;" value="Adele" vertex="1">
+          <mxGeometry x="30" y="420" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sa5d" parent="sa5" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=5, Soul/Pop, UK" vertex="1"><mxGeometry y="25" width="160" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="sa6" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;startSize=25;" value="The Weeknd" vertex="1">
+          <mxGeometry x="30" y="510" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sa6d" parent="sa6" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=6, R&amp;B, Canada" vertex="1"><mxGeometry y="25" width="160" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="sa7" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;startSize=25;" value="BTS" vertex="1">
+          <mxGeometry x="30" y="600" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sa7d" parent="sa7" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=7, K-Pop, South Korea" vertex="1"><mxGeometry y="25" width="160" height="25" as="geometry" /></mxCell>
+
+        <!-- Labels (right) -->
+        <mxCell id="sl1" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=12;startSize=25;" value="Republic Records" vertex="1">
+          <mxGeometry x="750" y="90" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sl1d" parent="sl1" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=5, UMG, USA" vertex="1"><mxGeometry y="25" width="200" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="sl2" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=12;startSize=25;" value="Atlantic Records" vertex="1">
+          <mxGeometry x="750" y="190" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sl2d" parent="sl2" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=6, WMG, USA" vertex="1"><mxGeometry y="25" width="200" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="sl3" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=12;startSize=25;" value="Interscope Records" vertex="1">
+          <mxGeometry x="750" y="290" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sl3d" parent="sl3" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=8, UMG, USA" vertex="1"><mxGeometry y="25" width="200" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="sl4" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=12;startSize=25;" value="Def Jam Recordings" vertex="1">
+          <mxGeometry x="750" y="390" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sl4d" parent="sl4" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=4, UMG, USA" vertex="1"><mxGeometry y="25" width="200" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="sl5" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=12;startSize=25;" value="Columbia Records" vertex="1">
+          <mxGeometry x="750" y="490" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sl5d" parent="sl5" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=7, Sony, USA" vertex="1"><mxGeometry y="25" width="200" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="sl6" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=12;startSize=25;" value="HYBE Labels" vertex="1">
+          <mxGeometry x="750" y="590" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sl6d" parent="sl6" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=9, South Korea" vertex="1"><mxGeometry y="25" width="200" height="25" as="geometry" /></mxCell>
+
+        <!-- Edges: SignedWith -->
+        <mxCell id="e_sw1" edge="1" parent="1" source="sa1" target="sl1" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;align=center;" value="[SignedWith]&#xa;date=2018-11-19&#xa;royalty=18%  status=Active">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_sw2" edge="1" parent="1" source="sa2" target="sl2" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;align=center;" value="[SignedWith]&#xa;date=2009-06-01&#xa;royalty=22%  status=Active">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_sw3" edge="1" parent="1" source="sa3" target="sl3" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;align=center;" value="[SignedWith]&#xa;date=2016-11-16&#xa;royalty=15%  status=Active">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_sw4" edge="1" parent="1" source="sa4" target="sl4" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;align=center;" value="[SignedWith]&#xa;date=2012-01-01&#xa;royalty=20%  status=Active">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_sw5" edge="1" parent="1" source="sa5" target="sl5" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;align=center;" value="[SignedWith]&#xa;date=2007-09-21&#xa;royalty=17%  status=Active">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_sw6" edge="1" parent="1" source="sa6" target="sl1" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;align=center;dashed=1;" value="[SignedWith]&#xa;date=2012-08-28&#xa;royalty=21%  status=Active">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_sw7" edge="1" parent="1" source="sa7" target="sl6" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;align=center;" value="[SignedWith]&#xa;date=2017-02-26&#xa;royalty=12%  status=Active">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <!-- Legend -->
+        <mxCell id="leg_sw" parent="1" style="swimlane;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontSize=12;startSize=25;" value="Легенда:" vertex="1">
+          <mxGeometry x="30" y="710" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="leg_sw1" parent="leg_sw" style="text;fontSize=11;align=left;spacingLeft=8;" value="—— стрелка: SignedWith (Artist → Label)" vertex="1"><mxGeometry y="25" width="320" height="22" as="geometry" /></mxCell>
+        <mxCell id="leg_sw2" parent="leg_sw" style="text;fontSize=11;align=left;spacingLeft=8;" value="- - - пунктир: один лейбл, несколько артистов" vertex="1"><mxGeometry y="47" width="320" height="22" as="geometry" /></mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+
+  <!-- ============================================================ -->
+  <!-- СТРАНИЦА 5: Collaborates — Producer → Artist                 -->
+  <!-- ============================================================ -->
+  <diagram name="Collaborates" id="page_collab">
+    <mxGraphModel dx="1607" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" /><mxCell id="1" parent="0" />
+
+        <!-- Producers left -->
+        <mxCell id="cp1" parent="1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=12;startSize=25;" value="Max Martin" vertex="1">
+          <mxGeometry x="30" y="60" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cp1d" parent="cp1" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=1, Sweden, Pop" vertex="1"><mxGeometry y="25" width="170" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="cp2" parent="1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=12;startSize=25;" value="Dr. Dre" vertex="1">
+          <mxGeometry x="30" y="160" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cp2d" parent="cp2" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=4, USA, Hip-Hop" vertex="1"><mxGeometry y="25" width="170" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="cp3" parent="1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=12;startSize=25;" value="Finneas OConnell" vertex="1">
+          <mxGeometry x="30" y="260" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cp3d" parent="cp3" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=11, USA, Bedroom Pop" vertex="1"><mxGeometry y="25" width="170" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="cp4" parent="1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=12;startSize=25;" value="Jack Antonoff" vertex="1">
+          <mxGeometry x="30" y="360" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cp4d" parent="cp4" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=9, USA, Indie Pop" vertex="1"><mxGeometry y="25" width="170" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="cp5" parent="1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=12;startSize=25;" value="Metro Boomin" vertex="1">
+          <mxGeometry x="30" y="460" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cp5d" parent="cp5" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=8, USA, Trap" vertex="1"><mxGeometry y="25" width="170" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="cp6" parent="1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=12;startSize=25;" value="Rick Rubin" vertex="1">
+          <mxGeometry x="30" y="560" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cp6d" parent="cp6" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=3, USA, Rock/Hip-Hop" vertex="1"><mxGeometry y="25" width="170" height="25" as="geometry" /></mxCell>
+
+        <!-- Artists right -->
+        <mxCell id="ca1" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;startSize=25;" value="Taylor Swift" vertex="1">
+          <mxGeometry x="800" y="60" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ca1d" parent="ca1" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=1, Pop/Country" vertex="1"><mxGeometry y="25" width="160" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="ca2" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;startSize=25;" value="The Weeknd" vertex="1">
+          <mxGeometry x="800" y="155" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ca2d" parent="ca2" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=6, R&amp;B/Pop" vertex="1"><mxGeometry y="25" width="160" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="ca3" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;startSize=25;" value="Eminem" vertex="1">
+          <mxGeometry x="800" y="250" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ca3d" parent="ca3" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=8, Hip-Hop" vertex="1"><mxGeometry y="25" width="160" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="ca4" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;startSize=25;" value="Kendrick Lamar" vertex="1">
+          <mxGeometry x="800" y="345" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ca4d" parent="ca4" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=4, Hip-Hop" vertex="1"><mxGeometry y="25" width="160" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="ca5" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;startSize=25;" value="Billie Eilish" vertex="1">
+          <mxGeometry x="800" y="440" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ca5d" parent="ca5" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=3, Pop" vertex="1"><mxGeometry y="25" width="160" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="ca6" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;startSize=25;" value="Drake" vertex="1">
+          <mxGeometry x="800" y="535" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ca6d" parent="ca6" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=2, Hip-Hop/R&amp;B" vertex="1"><mxGeometry y="25" width="160" height="25" as="geometry" /></mxCell>
+
+        <!-- Edges Collaborates -->
+        <mxCell id="e_c1" edge="1" parent="1" source="cp1" target="ca1" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;align=center;strokeColor=#9673a6;" value="[Collaborates]&#xa;since=2012, projects=7&#xa;exclusive=0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_c2" edge="1" parent="1" source="cp1" target="ca2" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;align=center;strokeColor=#9673a6;" value="[Collaborates]&#xa;since=2015, projects=4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_c3" edge="1" parent="1" source="cp2" target="ca3" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;align=center;strokeColor=#9673a6;" value="[Collaborates]&#xa;since=1999, projects=8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_c4" edge="1" parent="1" source="cp2" target="ca4" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;align=center;strokeColor=#9673a6;" value="[Collaborates]&#xa;since=2012, projects=5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_c5" edge="1" parent="1" source="cp3" target="ca5" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;align=center;strokeColor=#b85450;" value="[Collaborates]&#xa;since=2016, projects=5&#xa;EXCLUSIVE=1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_c6" edge="1" parent="1" source="cp4" target="ca1" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;align=center;strokeColor=#9673a6;" value="[Collaborates]&#xa;since=2017, projects=6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_c7" edge="1" parent="1" source="cp5" target="ca6" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;align=center;strokeColor=#9673a6;" value="[Collaborates]&#xa;since=2017, projects=9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_c8" edge="1" parent="1" source="cp6" target="ca3" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;align=center;strokeColor=#9673a6;" value="[Collaborates]&#xa;since=1999, projects=6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <!-- Legend -->
+        <mxCell id="leg_c" parent="1" style="swimlane;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontSize=12;startSize=25;" value="Легенда:" vertex="1">
+          <mxGeometry x="30" y="680" width="340" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="leg_c1" parent="leg_c" style="text;fontSize=11;align=left;spacingLeft=8;" value="—— фиолетовый: Collaborates (Producer → Artist)" vertex="1"><mxGeometry y="25" width="340" height="22" as="geometry" /></mxCell>
+        <mxCell id="leg_c2" parent="leg_c" style="text;fontSize=11;align=left;spacingLeft=8;fontColor=#b85450;" value="—— красный: exclusive = 1 (эксклюзивный контракт)" vertex="1"><mxGeometry y="47" width="340" height="22" as="geometry" /></mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+
+  <!-- ============================================================ -->
+  <!-- СТРАНИЦА 6: OwnsRights — Label → Label (цепочки владения)   -->
+  <!-- ============================================================ -->
+  <diagram name="OwnsRights" id="page_owns">
+    <mxGraphModel dx="1607" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" /><mxCell id="1" parent="0" />
+
+        <!-- UMG top center -->
+        <mxCell id="or1" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;startSize=30;" value="Universal Music Group" vertex="1">
+          <mxGeometry x="380" y="40" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="or1d" parent="or1" style="text;fontSize=12;align=left;spacingLeft=8;" value="id=1, USA, revenue=$10,000M" vertex="1"><mxGeometry y="30" width="260" height="25" as="geometry" /></mxCell>
+        <mxCell id="or1d2" parent="or1" style="text;fontSize=12;align=left;spacingLeft=8;" value="parent = NULL" vertex="1"><mxGeometry y="50" width="260" height="20" as="geometry" /></mxCell>
+
+        <!-- Sony left -->
+        <mxCell id="or2" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;startSize=30;" value="Sony Music" vertex="1">
+          <mxGeometry x="60" y="40" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="or2d" parent="or2" style="text;fontSize=12;align=left;spacingLeft=8;" value="id=2, USA, $8,500M" vertex="1"><mxGeometry y="30" width="200" height="25" as="geometry" /></mxCell>
+        <mxCell id="or2d2" parent="or2" style="text;fontSize=12;align=left;spacingLeft=8;" value="parent = NULL" vertex="1"><mxGeometry y="50" width="200" height="20" as="geometry" /></mxCell>
+
+        <!-- Warner right -->
+        <mxCell id="or3" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;startSize=30;" value="Warner Music Group" vertex="1">
+          <mxGeometry x="760" y="40" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="or3d" parent="or3" style="text;fontSize=12;align=left;spacingLeft=8;" value="id=3, USA, $5,600M" vertex="1"><mxGeometry y="30" width="210" height="25" as="geometry" /></mxCell>
+        <mxCell id="or3d2" parent="or3" style="text;fontSize=12;align=left;spacingLeft=8;" value="parent = NULL" vertex="1"><mxGeometry y="50" width="210" height="20" as="geometry" /></mxCell>
+
+        <!-- UMG children (depth 2) -->
+        <mxCell id="or4" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=12;startSize=25;" value="Def Jam Recordings" vertex="1">
+          <mxGeometry x="130" y="220" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="or4d" parent="or4" style="text;fontSize=12;align=left;spacingLeft=8;" value="id=4, 100% owned · $600M deal" vertex="1"><mxGeometry y="25" width="200" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="or5" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=12;startSize=25;" value="Republic Records" vertex="1">
+          <mxGeometry x="360" y="220" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="or5d" parent="or5" style="text;fontSize=12;align=left;spacingLeft=8;" value="id=5, 100% owned · Full" vertex="1"><mxGeometry y="25" width="200" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="or6" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=12;startSize=25;" value="Interscope Records" vertex="1">
+          <mxGeometry x="590" y="220" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="or6d" parent="or6" style="text;fontSize=12;align=left;spacingLeft=8;" value="id=8, 100% owned · $3,100M" vertex="1"><mxGeometry y="25" width="200" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="or7" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=12;startSize=25;" value="Motown Records" vertex="1">
+          <mxGeometry x="820" y="220" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="or7d" parent="or7" style="text;fontSize=12;align=left;spacingLeft=8;" value="id=11, 100% owned · $61M" vertex="1"><mxGeometry y="25" width="200" height="25" as="geometry" /></mxCell>
+
+        <!-- Sony child -->
+        <mxCell id="or8" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=12;startSize=25;" value="Columbia Records" vertex="1">
+          <mxGeometry x="60" y="220" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="or8d" parent="or8" style="text;fontSize=12;align=left;spacingLeft=8;" value="id=7, 100% owned · Full" vertex="1"><mxGeometry y="25" width="200" height="25" as="geometry" /></mxCell>
+
+        <!-- Warner children -->
+        <mxCell id="or9" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=12;startSize=25;" value="Atlantic Records" vertex="1">
+          <mxGeometry x="760" y="380" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="or9d" parent="or9" style="text;fontSize=12;align=left;spacingLeft=8;" value="id=6, 100% owned · Full" vertex="1"><mxGeometry y="25" width="200" height="25" as="geometry" /></mxCell>
+
+        <mxCell id="or10" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=12;startSize=25;" value="XL Recordings" vertex="1">
+          <mxGeometry x="990" y="380" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="or10d" parent="or10" style="text;fontSize=12;align=left;spacingLeft=8;" value="id=10, 75% owned · $200M" vertex="1"><mxGeometry y="25" width="200" height="25" as="geometry" /></mxCell>
+
+        <!-- HYBE standalone -->
+        <mxCell id="or11" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=12;startSize=25;" value="HYBE Labels" vertex="1">
+          <mxGeometry x="360" y="380" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="or11d" parent="or11" style="text;fontSize=12;align=left;spacingLeft=8;" value="id=9, South Korea" vertex="1"><mxGeometry y="25" width="200" height="25" as="geometry" /></mxCell>
+
+        <!-- Edges OwnsRights -->
+        <!-- UMG → Def Jam -->
+        <mxCell id="e_or1" edge="1" parent="1" source="or1" target="or4" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;strokeColor=#82b366;" value="100% · Full&#xa;acq=1999">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <!-- UMG → Republic -->
+        <mxCell id="e_or2" edge="1" parent="1" source="or1" target="or5" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;strokeColor=#82b366;" value="100% · Full&#xa;acq=2012">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <!-- UMG → Interscope -->
+        <mxCell id="e_or3" edge="1" parent="1" source="or1" target="or6" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;strokeColor=#82b366;" value="100% · Full&#xa;acq=1999">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <!-- UMG → Motown -->
+        <mxCell id="e_or4" edge="1" parent="1" source="or1" target="or7" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;strokeColor=#82b366;" value="100% · Full&#xa;acq=1988">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <!-- Sony → Columbia -->
+        <mxCell id="e_or5" edge="1" parent="1" source="or2" target="or8" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;strokeColor=#82b366;" value="100% · Full&#xa;acq=1988">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <!-- WMG → Atlantic -->
+        <mxCell id="e_or6" edge="1" parent="1" source="or3" target="or9" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;strokeColor=#82b366;" value="100% · Full&#xa;acq=1967">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <!-- WMG → XL -->
+        <mxCell id="e_or7" edge="1" parent="1" source="or3" target="or10" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;strokeColor=#d6b656;dashed=1;" value="75% · Partial&#xa;acq=2012">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <!-- HYBE → Def Jam -->
+        <mxCell id="e_or8" edge="1" parent="1" source="or11" target="or4" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;strokeColor=#d6b656;dashed=1;" value="49% · Partial&#xa;acq=2021">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <!-- Legend -->
+        <mxCell id="leg_or" parent="1" style="swimlane;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontSize=12;startSize=25;" value="Легенда:" vertex="1">
+          <mxGeometry x="30" y="520" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="leg_or1" parent="leg_or" style="text;fontSize=11;align=left;spacingLeft=8;fontColor=#82b366;" value="—— зелёный: 100% Full ownership" vertex="1"><mxGeometry y="25" width="340" height="22" as="geometry" /></mxCell>
+        <mxCell id="leg_or2" parent="leg_or" style="text;fontSize=11;align=left;spacingLeft=8;fontColor=#d6b656;" value="- - - жёлтый: Partial ownership (&lt;100%)" vertex="1"><mxGeometry y="47" width="340" height="22" as="geometry" /></mxCell>
+        <mxCell id="leg_or3" parent="leg_or" style="text;fontSize=11;align=left;spacingLeft=8;fontColor=#d6b656;" value="🟡 HYBE — независимый лейбл" vertex="1"><mxGeometry y="60" width="340" height="22" as="geometry" /></mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+
+  <!-- ============================================================ -->
+  <!-- СТРАНИЦА 7: Полная схема (Overview)                          -->
+  <!-- ============================================================ -->
+  <diagram name="Overview" id="page_overview">
+    <mxGraphModel dx="1607" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" /><mxCell id="1" parent="0" />
+
+        <!-- Central: Albums -->
+        <mxCell id="ov_al" parent="1" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;" value="ALBUMS&#xa;(15 узлов)" vertex="1">
+          <mxGeometry x="470" y="330" width="180" height="70" as="geometry" />
+        </mxCell>
+
+        <!-- Artists top-left -->
+        <mxCell id="ov_ar" parent="1" style="ellipse;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" value="ARTISTS&#xa;(12 узлов)" vertex="1">
+          <mxGeometry x="100" y="160" width="180" height="80" as="geometry" />
+        </mxCell>
+
+        <!-- Producers left -->
+        <mxCell id="ov_pr" parent="1" style="ellipse;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=14;" value="PRODUCERS&#xa;(12 узлов)" vertex="1">
+          <mxGeometry x="80" y="380" width="180" height="80" as="geometry" />
+        </mxCell>
+
+        <!-- Labels top-right -->
+        <mxCell id="ov_lb" parent="1" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=14;" value="LABELS&#xa;(12 узлов)" vertex="1">
+          <mxGeometry x="830" y="160" width="180" height="70" as="geometry" />
+        </mxCell>
+
+        <!-- Genres bottom -->
+        <mxCell id="ov_gn" parent="1" style="rhombus;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=13;" value="GENRES&#xa;(12)" vertex="1">
+          <mxGeometry x="470" y="530" width="180" height="100" as="geometry" />
+        </mxCell>
+
+        <!-- Edge: Artists → Labels (SignedWith) -->
+        <mxCell id="ov_e1" edge="1" parent="1" source="ov_ar" target="ov_lb" style="edgeStyle=orthogonalEdgeStyle;fontSize=11;strokeColor=#6c8ebf;fontColor=#6c8ebf;" value="SignedWith →&#xa;контракт, роялти, статус">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <!-- Edge: Artists → Albums (Released) -->
+        <mxCell id="ov_e2" edge="1" parent="1" source="ov_ar" target="ov_al" style="edgeStyle=orthogonalEdgeStyle;fontSize=11;strokeColor=#d6b656;fontColor=#d6b656;" value="Released →&#xa;дата выпуска, лейбл">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <!-- Edge: Producers → Albums (ProducedAlbum) -->
+        <mxCell id="ov_e3" edge="1" parent="1" source="ov_pr" target="ov_al" style="edgeStyle=orthogonalEdgeStyle;fontSize=11;strokeColor=#9673a6;fontColor=#9673a6;" value="ProducedAlbum →&#xa;роль, гонорар">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <!-- Edge: Producers → Artists (Collaborates) -->
+        <mxCell id="ov_e4" edge="1" parent="1" source="ov_pr" target="ov_ar" style="edgeStyle=orthogonalEdgeStyle;fontSize=11;strokeColor=#9673a6;fontColor=#9673a6;dashed=1;" value="Collaborates →&#xa;since, проекты">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <!-- Edge: Albums → Genres (BelongsToGenre) -->
+        <mxCell id="ov_e5" edge="1" parent="1" source="ov_al" target="ov_gn" style="edgeStyle=orthogonalEdgeStyle;fontSize=11;strokeColor=#b85450;fontColor=#b85450;" value="BelongsToGenre →&#xa;доля жанра %">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <!-- Edge: Labels → Labels (OwnsRights) -->
+        <mxCell id="ov_e6" edge="1" parent="1" source="ov_lb" target="ov_lb" style="edgeStyle=orthogonalEdgeStyle;fontSize=11;strokeColor=#82b366;fontColor=#82b366;exitX=1;exitY=0.5;entryX=1;entryY=0;" value="OwnsRights →&#xa;% владения, сумма">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="195" />
+              <mxPoint x="1060" y="140" />
+              <mxPoint x="990" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+
+        <!-- Stats table -->
+        <mxCell id="ov_stat" parent="1" style="swimlane;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontSize=12;startSize=25;" value="Статистика БД:" vertex="1">
+          <mxGeometry x="80" y="570" width="320" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ov_s1" parent="ov_stat" style="text;fontSize=12;align=left;spacingLeft=8;fontColor=#6c8ebf;" value="● Artists:  12 узлов" vertex="1"><mxGeometry y="25" width="320" height="22" as="geometry" /></mxCell>
+        <mxCell id="ov_s2" parent="ov_stat" style="text;fontSize=12;align=left;spacingLeft=8;fontColor=#9673a6;" value="● Producers:  12 узлов" vertex="1"><mxGeometry y="47" width="320" height="22" as="geometry" /></mxCell>
+        <mxCell id="ov_s3" parent="ov_stat" style="text;fontSize=12;align=left;spacingLeft=8;fontColor=#82b366;" value="● Labels:  12 узлов" vertex="1"><mxGeometry y="69" width="320" height="22" as="geometry" /></mxCell>
+        <mxCell id="ov_s4" parent="ov_stat" style="text;fontSize=12;align=left;spacingLeft=8;fontColor=#d6b656;" value="● Albums:  15 узлов" vertex="1"><mxGeometry y="91" width="320" height="22" as="geometry" /></mxCell>
+        <mxCell id="ov_s5" parent="ov_stat" style="text;fontSize=12;align=left;spacingLeft=8;fontColor=#b85450;" value="● Genres:  12 узлов" vertex="1"><mxGeometry y="113" width="320" height="22" as="geometry" /></mxCell>
+        <mxCell id="ov_s6" parent="ov_stat" style="text;fontSize=12;align=left;spacingLeft=8;" value="─ SignedWith: 12  ─ Released: 15" vertex="1"><mxGeometry y="135" width="320" height="22" as="geometry" /></mxCell>
+        <mxCell id="ov_s7" parent="ov_stat" style="text;fontSize=12;align=left;spacingLeft=8;" value="─ Collaborates: 15  ─ OwnsRights: 10" vertex="1"><mxGeometry y="157" width="320" height="22" as="geometry" /></mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+
+</mxfile>
